@@ -34,8 +34,8 @@ PROGRAM:
 Developed by: VD NATCHATHIRA
 
 RegisterNumber: 24900864
-
-*/module Verilog1(clk, sin, q);
+~~~
+module Verilog1(clk, sin, q);
 input clk;
 input sin;
 output [3:0] q;
@@ -48,7 +48,7 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
-
+~~~
 
 RTL LOGIC FOR SISO Shift Register:
 
