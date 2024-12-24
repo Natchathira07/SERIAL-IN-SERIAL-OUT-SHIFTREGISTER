@@ -31,7 +31,7 @@ PROGRAM:
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: VD NATCHATHIRA
+Developed by: VD NATCHATHIRA.
 
 RegisterNumber: 24900864
 ~~~
